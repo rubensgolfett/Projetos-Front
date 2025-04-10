@@ -2,8 +2,7 @@
 
 
 <ul>
-    <li> <a href=" https://rubensgolfett.github.io/Projetos-Front/Android-web/android.html" target="_black">Historia do Android</a></li>
-    <li> <a href=""></a></li>
+    # <li> <a href=" https://rubensgolfett.github.io/Projetos-Front/Android-web/android.html">Historia do Android</a></li>
 </ul>
 
 
